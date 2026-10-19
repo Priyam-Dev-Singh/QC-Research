@@ -1,0 +1,3 @@
+major bottlenecks in quantum computation:
+
+1. deaf qubit problem.
